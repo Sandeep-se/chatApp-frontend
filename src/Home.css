@@ -1,0 +1,11 @@
+.home{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+    width:28%
+}
+.right{
+    width: 72%;
+}

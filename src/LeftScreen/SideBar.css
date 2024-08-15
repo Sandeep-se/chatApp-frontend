@@ -1,0 +1,53 @@
+/* .sideBar{
+    min-width: 100%px;
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+}
+.bar{
+    position: sticky;
+}
+.search>div{
+    display: flex;
+    flex-direction: column;
+}
+.search1{
+    display: flex;
+    z-index: 1;
+    position: sticky;
+}
+.conversation1{
+    max-height: 478px;
+    display: flex;
+    overflow-y: auto;
+    overflow-x: hidden;
+    flex-direction: column;
+    scrollbar-width: none;
+} */
+.sideBar{
+    width: 100%;
+    flex: 1;
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+}
+.bar{
+    position: sticky;
+}
+.search>div{
+    display: flex;
+    flex-direction: column;
+}
+.search1{
+    display: flex;
+    z-index: 1;
+    position: sticky;
+}
+.conversation1{
+    max-height: 478px;
+    display: flex;
+    overflow-y: auto;
+    overflow-x: hidden;
+    flex-direction: column;
+    scrollbar-width: none;
+}

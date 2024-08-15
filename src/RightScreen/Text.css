@@ -1,0 +1,29 @@
+/* .text{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.text>div>input{
+    flex: 1;
+    height: 25px;
+    border-color: #f2f2f2;
+    /* width: 100%; */
+
+/* 922px */
+
+.text{
+    /* display: flex;
+    flex-direction: row; */
+}
+
+input{
+    height: 25px;
+    border-color: #f2f2f2;
+    border-width: 1px;
+    width: 90%;
+}
+/* .button{
+    margin-top:10px ;
+    width: 100%;
+    background-color: aqua;
+    height: 30px;
+} */

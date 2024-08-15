@@ -1,0 +1,31 @@
+.messageEnd{
+    max-width: 50%;
+    padding: 4px;
+    height: auto;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 10px;
+    background-color: lightblue;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+.messageStart{
+    max-width: 50%;     
+    padding: 4px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-end;
+    height:auto;
+    background-color: #99d6ff;
+    margin-right: auto;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+.time{
+    flex:1;
+    font-size: 8px;
+    margin-bottom: 0px;
+    margin-top: auto;
+    margin-right: 5px 0;
+}
